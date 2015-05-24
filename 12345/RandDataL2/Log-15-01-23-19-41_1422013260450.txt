@@ -1,0 +1,7 @@
+CPU_WORKING: 0 CPU_SIZE：1
+15-01-23-19-41实验开始，logfile:D:\randData2\Log-15-01-23-19-41_1422013260450.txt
+DataSet RandData:Data50P1K30L2 size:1000
+--------------删除节点个数---Dnum:5----------------
+--------------实验---alg:16----------------
+GodinAdd: 时间9937.000000 ms  一共产生经典概念15733
+IterationTDAD: 时间172.000000 ms  一共产生经典概念11529
